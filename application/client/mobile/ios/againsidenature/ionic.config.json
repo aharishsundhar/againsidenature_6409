@@ -1,0 +1,7 @@
+{
+  "name": "againsidenature",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
